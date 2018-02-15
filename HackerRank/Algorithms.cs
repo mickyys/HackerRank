@@ -11,7 +11,7 @@ namespace Algorithms
         static void Main(string[] args)
         {
             //DiagonalDifference.inicio(null);
-            PlusMinus.inicio(null);
+            Staircase.inicio(null);
         }
     }
 }

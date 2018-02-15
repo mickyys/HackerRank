@@ -16,6 +16,8 @@ namespace Algorithms
             // Complete this function
         }
 
+       
+
         public static void inicio(String[] args)
         {
             //int n = Convert.ToInt32(Console.ReadLine());

@@ -45,8 +45,10 @@
   <ItemGroup>
     <Compile Include="Algorithms.cs" />
     <Compile Include="DiagonalDifference.cs" />
+    <Compile Include="Mini-MaxSum.cs" />
     <Compile Include="PlusMinus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Staircase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
