@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Diagonal Difference.cs" />
+    <Compile Include="Algorithms.cs" />
+    <Compile Include="DiagonalDifference.cs" />
+    <Compile Include="PlusMinus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

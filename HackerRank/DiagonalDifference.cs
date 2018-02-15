@@ -8,7 +8,7 @@ namespace Algorithms
 {
     class DiagonalDifference
     {
-        static void Main(string[] args)
+        public static void inicio(string[] args)
         {
             /*
                 3
@@ -42,7 +42,7 @@ namespace Algorithms
             Console.WriteLine("fdiagonal : " + fdiagonal);
             Console.WriteLine("sdiagonal : " + sdiagonal);
 
-            return fdiagonal - sdiagonal;
+            return Math.Abs(fdiagonal - sdiagonal);
            
         }
     }
