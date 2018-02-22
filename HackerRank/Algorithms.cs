@@ -11,7 +11,7 @@ namespace Algorithms
         static void Main(string[] args)
         {
             //DiagonalDifference.inicio(null);
-            Staircase.inicio(null);
+            TimeConversion.Inicio();
         }
     }
 }
